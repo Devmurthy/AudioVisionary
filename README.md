@@ -1,0 +1,14 @@
+streamlit==1.31.0
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+transformers==4.34.0
+diffusers==0.21.4
+accelerate==0.24.1
+librosa==0.10.1
+soundfile==0.12.1
+matplotlib==3.7.2
+numpy==1.24.3
+Pillow==10.0.0
+scipy==1.11.2
+huggingface_hub==0.18.0
